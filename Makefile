@@ -11,3 +11,4 @@ compte.o: compte.cpp compte.h
 
 clean:
 	rm *.o
+	rm *.out
